@@ -8,11 +8,11 @@ utrd
     <title>Restaurant Menus</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-    <body><style>
-    {background: url('['](https://upload.wikimedia.org/wikipedia/commons/4/41/Paper_Plate.jpg)) no-repeat center center/cover;
-    width: 400px;
-    height: 550px;}  
-    </style>/body>
+.my-background-div {
+    background: url('['](https://upload.wikimedia.org/wikipedia/commons/4/41/Paper_Plate.jpg)) no-repeat center center/cover;
+    width: 500px;
+    height: 300px;
+}
         <body>
      <h1>Our Daily Menus</h1>
     <div class="menu-container">
