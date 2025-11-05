@@ -12,6 +12,9 @@ utrd
     <h1>Our Daily Menus</h1>
     <div class="menu-container">
         <!-- Breakfast Menu -->
+<body style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_2lhu8r-0bGDY8QMS07VjM_-hcXjQAeiSQ&s');">
+<!-- Your content here -->
+</body>
         <div class="menu" id="breakfast-menu">
             <h2>Breakfast Menu</h2>
             <div class="menu-items">
