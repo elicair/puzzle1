@@ -35,7 +35,7 @@ font-family: Arial, sans-serif;
 <div class="caption">Picture 1</div>
 </div>
 <div class="item">
-<img src="<img src="https://pethelpful.com/.image/w_750,q_auto:good,c_limit/NDowMDAwMDAwMDAwMTA3MjE5/german-shepherd-laying-in-grass-107219.jpg?arena_f_auto" alt="Picture 2"/>
+<img src="https://pethelpful.com/.image/w_750,q_auto:good,c_limit/NDowMDAwMDAwMDAwMTA3MjY4/doberman-pinscher-in-dandelions-107268.jpg?arena_f_auto" alt="Picture 2"/>
 <div class="caption">Picture 2</div>
 </div>
 <div class="item">
