@@ -55,16 +55,16 @@
     <div class="grid-container">
         <!-- Replace 'via.placeholder.com' with your actual image paths -->
         <div class="grid-item"><img src="puzzle1_A.jpg" alt="Image 1"></div>
-        <div class="grid-item"><img src="puzzle1_B.jpg" alt="Image 2"></div>
-        <div class="grid-item"><img src="puzzle1_C.jpg" alt="Image 3"></div>
+        <div class="grid-item"><img src="puzzle1_G.jpg" alt="Image 2"></div>
+        <div class="grid-item"><img src="puzzle1_F.jpg" alt="Image 3"></div>
         <div class="grid-item"><img src="puzzle1_D.jpg" alt="Image 4"></div>
         <div class="grid-item"><img src="puzzle1_E.jpg" alt="Image 5"></div>
-        <div class="grid-item"><img src="via.placeholder.com?text=Image+6" alt="Image 6"></div>
-        <div class="grid-item"><img src="via.placeholder.com?text=Image+7" alt="Image 7"></div>
+        <div class="grid-item"><img src="puzzle1_B.jpg" alt="Image 6"></div>
+        <div class="grid-item"><img src="puzzle1_H.jpg" alt="Image 7"></div>
         <div class="grid-item"><img src="via.placeholder.com?text=Image+8" alt="Image 8"></div>
         <div class="grid-item"><img src="via.placeholder.com?text=Image+9" alt="Image 9"></div>
         <div class="grid-item"><img src="via.placeholder.com?text=Image+10" alt="Image 10"></div>
-        <div class="grid-item"><img src="via.placeholder.com?text=Image+11" alt="Image 11"></div>
+        <div class="grid-item"><img src="puzzle1_C.jpg" alt="Image 11"></div>
         <div class="grid-item"><img src="via.placeholder.com?text=Image+12" alt="Image 12"></div>
         <div class="grid-item"><img src="via.placeholder.com?text=Image+13" alt="Image 13"></div>
         <div class="grid-item"><img src="via.placeholder.com?text=Image+14" alt="Image 14"></div>
