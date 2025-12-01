@@ -12,8 +12,8 @@
         <!-- 16 Pieces for the 4x4 Grid -->
         <div class="piece"><img src="puzzle1_A.jpg" alt="Piece 1"></div>
         <div class="piece"><img src="puzzle1_B.jpg" alt="Piece 2"></div>
-        <div class="piece"><img src="puzzle_piece3.jpg" alt="Piece 3"></div>
-        <div class="piece"><img src="puzzle_piece4.jpg" alt="Piece 4"></div>
+        <div class="piece"><img src="puzzle1_C.jpg" alt="Piece 3"></div>
+        <div class="piece"><img src="puzzle1_D.jpg" alt="Piece 4"></div>
         <div class="piece"><img src="puzzle_piece5.jpg" alt="Piece 5"></div>
         <div class="piece"><img src="puzzle_piece6.jpg" alt="Piece 6"></div>
         <div class="piece"><img src="puzzle_piece7.jpg" alt="Piece 7"></div>
