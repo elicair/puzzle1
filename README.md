@@ -9,7 +9,7 @@
 <body>
     <div class="puzzle-container">
         <!-- 16 pieces for the puzzle -->
-        <div class="piece p1" data-order="1"></div>
+        <div class="puzzle1_A.jpg" data-order="1"></div>
         <div class="piece p2" data-order="2"></div>
         <div class="piece p3" data-order="3"></div>
         <div class="piece p4" data-order="4"></div>
