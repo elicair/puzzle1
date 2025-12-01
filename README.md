@@ -61,13 +61,13 @@
         <div class="grid-item"><img src="puzzle1_E.jpg" alt="Image 5"></div>
         <div class="grid-item"><img src="puzzle1_B.jpg" alt="Image 6"></div>
         <div class="grid-item"><img src="puzzle1_H.jpg" alt="Image 7"></div>
-        <div class="grid-item"><img src="via.placeholder.com?text=Image+8" alt="Image 8"></div>
-        <div class="grid-item"><img src="via.placeholder.com?text=Image+9" alt="Image 9"></div>
-        <div class="grid-item"><img src="via.placeholder.com?text=Image+10" alt="Image 10"></div>
+        <div class="grid-item"><img src="puzzle1_P.jpg" alt="Image 8"></div>
+        <div class="grid-item"><img src="puzzle1_O.jpg" alt="Image 9"></div>
+        <div class="grid-item"><img src="puzzle1_N.jpg" alt="Image 10"></div>
         <div class="grid-item"><img src="puzzle1_C.jpg" alt="Image 11"></div>
-        <div class="grid-item"><img src="via.placeholder.com?text=Image+12" alt="Image 12"></div>
-        <div class="grid-item"><img src="via.placeholder.com?text=Image+13" alt="Image 13"></div>
-        <div class="grid-item"><img src="via.placeholder.com?text=Image+14" alt="Image 14"></div>
-        <div class="grid-item"><img src="via.placeholder.com?text=Image+15" alt="Image 15"></div>
-        <div class="grid-item"><img src="via.placeholder.com?text=Image+16" alt="Image 16"></div>
+        <div class="grid-item"><img src="puzzle1_I.jpg" alt="Image 12"></div>
+        <div class="grid-item"><img src="puzzle1_J.jpg" alt="Image 13"></div>
+        <div class="grid-item"><img src="puzzle1_K.jpg" alt="Image 14"></div>
+        <div class="grid-item"><img src="puzzle1_L.jpg" alt="Image 15"></div>
+        <div class="grid-item"><img src="puzzle1_M.jpg" alt="Image 16"></div>
     </div>
