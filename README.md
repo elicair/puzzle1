@@ -1,19 +1,18 @@
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Flexbox Three Columns</title>
+<title>puzzle</title>
 <style>
 .container {
-display: flex; /* Activate Flexbox on the parent */
-justify-content: space-around; /* Distributes space nicely */
-gap: 20px; /* Adds space between columns */
+display: flex; 
+justify-content: space-around; 
+gap: 20px; 
 padding: 20px;
 }
 .section {
-flex: 1; /* Makes all sections grow equally to fill the space */
+flex: 1; 
 background-color: #f1f1f1;
 padding: 20px;
 border: 1px solid #ccc;
@@ -24,15 +23,15 @@ text-align: center;
 <body>
 <div class="container">
 <div class="section">
-<h2>Sectillon 1</h2>
-<p>This column will take up one-third of the available space.</p>
+<h2>name and date</h2>
+<p>Eli cairns, Dec 2 2025.</p>
 </div>
 <div class="section">
-<h2>Section 2</h2>
-<p>This column will also take up one-third of the available space.</p>
+<h2>why i picked this puzzle</h2>
+<p>i picked this buzle at random.</p>
 </div>
 <div class="section">
-<h2>Section 3</h2>
+<h2>puzzle</h2>
 <p>
 <head>
 <meta charset="UTF-8">
@@ -95,9 +94,6 @@ display: block;
 <div class="grid-item"><img src="puzzle1_K.jpg" alt="Image 15"></div>
 <div class="grid-item"><img src="puzzle1_I.jpg" alt="Image 16"></div>
 <img src="puzzle1_D.jpg" alt="Hidden Image" hidden>
-</div>
-</p>
-</div>
 </div>
 </body>
 </html>
