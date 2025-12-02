@@ -62,10 +62,10 @@
         <div class="grid-item"><img src="puzzle1_B.jpg" alt="Image 6"></div>
         <div class="grid-item"><img src="puzzle1_H.jpg" alt="Image 7"></div>
         <div class="grid-item"><img src="puzzle1_P.jpg" alt="Image 8"></div>
-        <div class="grid-item"><img src="puzzle1_O.jpg" alt="Image 9"></div>
+        <div class="grid-item"><img src="puzzle1_Q.jpg" alt="Image 9"></div>
         <div class="grid-item"><img src="puzzle1_N.jpg" alt="Image 10"></div>
         <div class="grid-item"><img src="puzzle1_C.jpg" alt="Image 11"></div>
-        <div class="grid-item"><img src="puzzle1_Q.jpg" alt="Image 12"></div>
+        <div class="grid-item"><img src="puzzle1_O.jpg" alt="Image 12"></div>
         <div class="grid-item"><img src="puzzle1_F.jpg" alt="Image 13"></div>
         <div class="grid-item"><img src="puzzle1_L.jpg" alt="Image 14"></div>
         <div class="grid-item"><img src="puzzle1_K.jpg" alt="Image 15"></div>
