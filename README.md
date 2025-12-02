@@ -96,4 +96,3 @@ display: block;
 <img src="puzzle1_D.jpg" alt="Hidden Image" hidden>
 </div>
 </body>
-</html>
